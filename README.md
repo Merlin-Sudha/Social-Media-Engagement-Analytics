@@ -1,5 +1,5 @@
 # Social-Media-Engagement-Analytics
-# 📂 Python File Backup Automation
+
 
 ## 📌 Project Overview
 This project demonstrates a simple Python automation script that automatically moves files from a source folder to a destination (backup) folder. It helps automate file management tasks, reducing manual effort and improving productivity.
